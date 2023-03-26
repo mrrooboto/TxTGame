@@ -104,7 +104,7 @@ public class Main {
         }
         System.out.println("###########################");
         System.out.println("###########################");
-        System.out.println("THANKS FOR PLAYING PENIS.");
+        System.out.println("THANKS FOR PLAYING.");
         System.out.println("###########################");
         System.out.println("###########################");
     }
